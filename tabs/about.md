@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> Hey! My name is Ahmed. I’m a cybersecurity researcher, love to break things, coder, blog writing, hack for fun.
