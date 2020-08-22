@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://sploiter.github.io/Cr0ssb0w/sitemap.xml
