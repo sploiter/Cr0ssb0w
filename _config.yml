@@ -10,7 +10,7 @@
 
 title: Cr0ssb0w Blog                          # the main title
 
-tagline: InfoSec Blog  # it will display as the sub-title
+tagline: InfoSec Blog & HackTheBox Machines Writeups & CTFs Writeups.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   InfoSec Blog & HackTheBox Machines Writeups & CTFs Writeups.
